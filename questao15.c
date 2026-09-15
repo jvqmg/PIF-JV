@@ -1,3 +1,0 @@
-Resposta:
-
-Letra c)
