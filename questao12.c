@@ -1,8 +1,0 @@
-a) int a; [correto] [declaracao válida]
-b) float b; [correto] [declaracao válida]
-c) double float c; [incorreto] [sintaxe inválida]
-d) unsigned char d; [correto] [declaracao válida]
-e) unsigned e; [correto] [sintaxe válida]
-f) long float f; [incorreto] [tipo inválido]
-g) long g; [correto] [declaracao válida]
-h) long double h; [correto] [declaracao válida]
